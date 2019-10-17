@@ -1,0 +1,15 @@
+
+ЂЄвЁў­лҐ Ї®¤Є«озҐ­Ёп
+
+  €¬п    ‹®Є «м­л©  ¤аҐб        ‚­Ґи­Ё©  ¤аҐб          ‘®бв®п­ЁҐ
+  TCP    192.168.0.100:49810    lagom:25432            ESTABLISHED
+  TCP    192.168.0.100:49828    52.139.250.253:https   ESTABLISHED
+  TCP    192.168.0.100:49995    52.142.119.134:https   ESTABLISHED
+  TCP    192.168.0.100:49996    13.107.5.88:https      ESTABLISHED
+  TCP    192.168.0.100:50363    yandex:https           ESTABLISHED
+  TCP    192.168.0.100:50396    yandex:https           ESTABLISHED
+  TCP    192.168.0.100:50723    lo-in-f188:5228        ESTABLISHED
+  TCP    192.168.0.100:51107    im-tub:https           ESTABLISHED
+  TCP    192.168.0.100:51395    13.107.5.88:https      ESTABLISHED
+  TCP    192.168.0.100:51440    lb-140-82-113-26-iad:https  ESTABLISHED
+
